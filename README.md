@@ -1,2 +1,3 @@
 # ML_class_dataset
-ml class dataset 4now, anymore file and work sheet will be add in future
+upgrade side project from hw1 in ml class
+->target:use dataset as trial for each model and data procressing
